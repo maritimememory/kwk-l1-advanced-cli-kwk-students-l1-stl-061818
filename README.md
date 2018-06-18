@@ -45,7 +45,7 @@ grep -r dog big_directory_with_sub_directories
 
 ### Challenge 2
 
-Using the `grep` command, find out the following information:
+Using the `grep` commandd, find out the following information:
 
 * What food is otherwise known as _gorp_?
 * Which food has the word _grapes_ in its text file?
